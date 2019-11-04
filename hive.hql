@@ -1,3 +1,6 @@
+######################################
+-- Use below code snippet in Hive
+######################################
 -- Add python script into hive
 ADD FILE {path}/email_parser.py
 
